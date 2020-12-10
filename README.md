@@ -1,2 +1,2 @@
-# My-own-library
-My own library with isTouching algorithm. 
+# p5.play-boilerplate
+Boiler plate for p5.play
